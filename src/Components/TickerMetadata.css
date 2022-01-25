@@ -1,0 +1,18 @@
+
+.tickerCard {
+    height: 100%;
+    border-radius: 1rem;
+    color: #fff;
+    border: 1px solid #15161D;
+    background-color: #15161D;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+h1, h2, h3, h4, .symbol, i {
+    background-color: #15161D;
+}
+
+.tickerCard:hover {
+    border: 1px solid #3A9FBC;
+}
