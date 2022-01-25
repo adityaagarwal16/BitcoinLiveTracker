@@ -1,6 +1,9 @@
 # BITCOIN LIVE TRACKER
 
 This project was made using React.JS
+* It uses Websockets to get live data for BTC
+* Chart.JS is used for plotting realtime data
+* The WebApp shows: BTC Price/Volume/High/Low in given time frame
 
 ## Available Scripts
 
